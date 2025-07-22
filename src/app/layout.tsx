@@ -3,8 +3,8 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: 'Sam Head Audio | Mixing & Mastering Engineer',
-  description: 'Professional audio mixing and mastering services by Sam Head. Get industry-standard sound for your music.',
+  title: 'noisebysam | Mixing & Mastering Engineer',
+  description: 'Professional audio mixing and mastering services by Sam. Get industry-standard sound for your music.',
 };
 
 export default function RootLayout({

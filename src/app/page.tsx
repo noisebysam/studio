@@ -94,7 +94,7 @@ export default function Home() {
           />
           <div className="container max-w-7xl text-center relative z-20">
             <h1 className="font-headline text-4xl md:text-6xl lg:text-7xl font-bold tracking-tighter">
-              Sam Head Audio
+              noisebysam
             </h1>
             <p className="mt-4 text-lg md:text-xl max-w-3xl mx-auto text-muted-foreground">
               Crafting professional, industry-standard sound for your music. I'm Sam, a mixing and mastering engineer dedicated to making your art shine.

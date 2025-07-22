@@ -24,7 +24,7 @@ export function Header() {
       <div className="container flex h-16 max-w-7xl items-center justify-between">
         <a href="#" className="flex items-center gap-2">
           <Music className="h-6 w-6 text-primary" />
-          <span className="font-headline text-xl font-bold">Sam Head Audio</span>
+          <span className="font-headline text-xl font-bold">noisebysam</span>
         </a>
 
         <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
@@ -51,7 +51,7 @@ export function Header() {
                 <div className="flex items-center justify-between p-4 border-b">
                   <a href="#" className="flex items-center gap-2" onClick={handleLinkClick}>
                     <Music className="h-6 w-6 text-primary" />
-                    <span className="font-headline text-lg font-bold">Sam Head Audio</span>
+                    <span className="font-headline text-lg font-bold">noisebysam</span>
                   </a>
                 </div>
                 <nav className="flex flex-col items-start gap-4 p-4">

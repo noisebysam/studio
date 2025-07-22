@@ -6,10 +6,10 @@ export function Footer() {
       <div className="container max-w-7xl flex flex-col md:flex-row items-center justify-between gap-4">
         <div className="flex items-center gap-2">
           <Music className="h-5 w-5 text-primary" />
-          <span className="font-headline text-lg font-bold">Sam Head Audio</span>
+          <span className="font-headline text-lg font-bold">noisebysam</span>
         </div>
         <p className="text-sm text-center">
-          &copy; {new Date().getFullYear()} Sam Head Audio. All rights reserved.
+          &copy; {new Date().getFullYear()} noisebysam. All rights reserved.
         </p>
         <div className="flex items-center gap-4">
           <a href="#" aria-label="Twitter" className="hover:text-primary transition-colors">
